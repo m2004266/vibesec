@@ -1,0 +1,9 @@
+node_modules/
+out/
+backend/
+.env
+*.vsix
+.vscode-test/
+__pycache__/
+*.pyc
+docs/user-provided-screenshot-captures/
